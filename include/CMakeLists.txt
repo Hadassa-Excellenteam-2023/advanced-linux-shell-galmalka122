@@ -1,1 +1,0 @@
-target_include_directories (bash PRIVATE ${CMAKE_CURRENT_LIST_DIR})
